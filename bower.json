@@ -1,0 +1,10 @@
+{
+  "name": "lazy-line-painter",
+  "description": "A Jquery plugin for path animation using the Raphaël Library.",
+  "version": "1.4.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marcomedina/lazy-line-painter.git"
+  },
+  "main": "jquery.lazylinepainter-1.4.1.min.js"
+}
